@@ -6,3 +6,9 @@ How to use:
 3.Run the programm with Netbeans or whatever program you are used to.
 
 Have fun! :)
+
+Features:
+-Login
+-Edit/Add/Delete
+-Who is Online
+-Find your ideal date
